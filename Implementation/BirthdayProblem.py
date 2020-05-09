@@ -19,7 +19,7 @@ def birthday(s, d, m):
             counter += 1
     return counter
 
-
+#https://www.hackerrank.com/challenges/the-birthday-bar/problem
 if __name__ == '__main__':
     #fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
